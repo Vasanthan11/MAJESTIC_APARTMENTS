@@ -270,7 +270,7 @@
     .preload .text {
         background-image: var(--loading-text-gradient);
         background-size: 500%;
-        font-size: calc(2rem + 3vw);
+        font-size:3rem;
         font-weight: var(--weight-bold);
         line-height: 3rem;
         letter-spacing: 16px;
